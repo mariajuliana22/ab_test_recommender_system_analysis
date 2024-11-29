@@ -1,4 +1,4 @@
-# project_International_Online_Store
+# project_international_online_store
 Prueba A/B - A/B test
 
 Proyecto hecho para TripleTen (Bootcamp online) - Sprint 14. Proyecto final / Project completed for TripleTen (Online Bootcamp) - Sprint 14. Final project.
