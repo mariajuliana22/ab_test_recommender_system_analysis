@@ -1,7 +1,7 @@
 # project_international_online_store
 Prueba A/B - A/B test
 
-Proyecto hecho para TripleTen (Bootcamp online) - Sprint 14. Proyecto final / Project completed for TripleTen (Online Bootcamp) - Sprint 14. Final project.
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 14. Proyecto final (Prueba A/B) / Project completed for TripleTen (Online Bootcamp) - Sprint 14. Final project (A/B test).
 
 ## Descripción del ejercicio / Exercise Description
 Has recibido una tarea analítica de una tienda en línea internacional. Tus predecesores no consiguieron completarla: lanzaron una prueba A/B y luego abandonaron (para iniciar una granja de sandías en Brasil). Solo dejaron las especificaciones técnicas y los resultados de las pruebas.
